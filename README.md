@@ -25,6 +25,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniazzam&show_icons=true&locale=en&layout=compact" alt="daniazzam" />
 </p>
+
+## GitHub Activity
+<a href="https://www.github.com/daniazzam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daniazzam" alt="daniazzam" /></a>
+<br />
+<a href="https://www.github.com/daniazzam"><img src="https://github-readme-stats.vercel.app/api?username=daniazzam" alt="daniazzam" /></a>
+
