@@ -27,7 +27,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniazzam&show_icons=true&locale=en&layout=compact" alt="daniazzam" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniazzam&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact" />
 </p>
 
 ## GitHub Activity
