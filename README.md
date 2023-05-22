@@ -1,4 +1,4 @@
-# Hey there, I am Dani Azzam!
+# Hey there, I am Dani!
 [![GitHub followers](https://img.shields.io/github/followers/daniazzam?style=social)](https://github.com/daniazzam?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/daniazzam?style=social)
 ![visitors](https://komarev.com/ghpvc/?username=your-github-username&color=green)
