@@ -1,7 +1,7 @@
 # Hey there, I am Dani!
 [![GitHub followers](https://img.shields.io/github/followers/daniazzam?style=social)](https://github.com/daniazzam?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/daniazzam?style=social)
-![visitors](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![visitors](https://visitor-badge-deno.deno.dev/daniazzam.daniazzam.svg)
 
 - 🔭 Currently honing my expertise in robotics and artificial intelligence.
 - 🌱 Actively exploring the depths of deep learning.
