@@ -34,6 +34,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" width="40" height="40" style="padding-right:20px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"  width="40" height="40" style="padding-right:20px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"  width="40" height="40" style="padding-right:20px;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwp96_22LxqDnQj_-nx5F0j8SGFJ7L9uDeh_YM7NCY3BxmjPWYJfMRQkK0bbdugiyyMnk&usqp=CAU"  width="40" height="40" style="padding-right:20px;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOvzPho5lx8oyHAMaVK4v3M32X2Wf42uVXdfvU1xOXg&s"  width="40" height="40" style="padding-right:20px;"/>
+  
+
 </p>
 
 <p align="left">
